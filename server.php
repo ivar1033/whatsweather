@@ -2,7 +2,7 @@
 
 $weather="";
 $error="";
-$api= ///enter your api key here
+$api="77d560263ecbeb66539f16d3f189eec5"; /// remove the key api key and enter your own api key here.
 
 if(isset($_GET['city'])){
 
